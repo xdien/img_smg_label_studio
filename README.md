@@ -1,7 +1,7 @@
 # About 
 This project is fork from https://github.com/tristanratz/Interactive-Image-Segmentation.git
 - The .h5 files are downloaded from the original project.
-- If tensorflow version is 2 then you should use the fork Mask_RCNN available on github
+- If tensorflow version is 2 then you should use the fork ![Mask_RCNN](https://github.com/leekunhee/Mask_RCNN.git) available on github
 
 # Image Segmentation Module for Label Studio
 
